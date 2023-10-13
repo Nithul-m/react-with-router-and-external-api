@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/react-with-router-and-external-api/static/js/main.4bf2c32e.js",
+    "main.js": "/react-with-router-and-external-api/static/js/main.bf1a4eeb.js",
     "index.html": "/react-with-router-and-external-api/index.html",
-    "main.4bf2c32e.js.map": "/react-with-router-and-external-api/static/js/main.4bf2c32e.js.map"
+    "main.bf1a4eeb.js.map": "/react-with-router-and-external-api/static/js/main.bf1a4eeb.js.map"
   },
   "entrypoints": [
-    "static/js/main.4bf2c32e.js"
+    "static/js/main.bf1a4eeb.js"
   ]
 }
