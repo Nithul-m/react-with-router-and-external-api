@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/react-with-router-and-external-api/static/js/main.4bf2c32e.js",
+    "index.html": "/react-with-router-and-external-api/index.html",
+    "main.4bf2c32e.js.map": "/react-with-router-and-external-api/static/js/main.4bf2c32e.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.4bf2c32e.js"
+  ]
+}
