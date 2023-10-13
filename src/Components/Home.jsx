@@ -36,7 +36,7 @@ return (
       <Restaurant restaurant = {restaurant} />
       </Col>
     ))}
-    {/* <button onClick={()=>fetchRestaurants()}>Get Data</button> */}
+    <button onClick={()=>fetchRestaurants()}>Get Data</button>
     
     </Row>
     </Container>  )
